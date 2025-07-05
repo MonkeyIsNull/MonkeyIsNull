@@ -1,6 +1,7 @@
 ## Hey all
 
 Hey, I'm Adam. Somehow I've been working in this field for 28 years.
+
 At the moment I've been working on some [RDAP](https://github.com/icann/icann-rdap/) [projects](https://github.com/icann/rdap-conformance-tool) and a little bit of DNSSEC.
 
 
