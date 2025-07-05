@@ -13,9 +13,11 @@ At the moment I've been working on some [RDAP](https://github.com/icann/icann-rd
 </a>
 
 
-### Latest Stuff
+### ⚙️  Latest Work
 
-My current tech-interests are all about speed in Low-Level Networking & VirtualMachines. How we can we better track packets and get the necessary information out of them in a manner as fast as freaking possible? Hence some of my current projects below:
+Right now, I'm all about speed — especially in low-level networking and virtual machines. How can we track packets, extract metadata, and make intelligent decisions *as fast as freaking possible*?
+
+Some of my current experiments:
 
 
   - [RistrettoDB](https://github.com/MonkeyIsNull/RistrettoDB) - 4.6M rows/sec embedded database
