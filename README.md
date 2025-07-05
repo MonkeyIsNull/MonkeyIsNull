@@ -25,7 +25,7 @@ Some of my current experiments:
 
 
   - [RistrettoDB](https://github.com/MonkeyIsNull/RistrettoDB) - 4.6M rows/sec embedded database
-  - [VFM](https://github.com/MonkeyIsNull/velocity-filter-machine) - Packet filtering VM
+  - [VFM](https://github.com/MonkeyIsNull/VelocityFilterMachine) - Packet filtering VM
   - [PacketVelocity](https://github.com/MonkeyIsNull/PacketVelocity) - High-Speed Cross-platform packet capture
   - [Cortado](https://github.com/MonkeyIsNull/cortado) - A caffeine infused version of Lisp written in Rust
   - [TinyTotVM](https://github.com/MonkeyIsNull/TinyTotVM) - Experimental Virtual Machine
