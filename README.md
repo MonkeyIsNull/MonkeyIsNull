@@ -19,9 +19,7 @@ At the moment I've been working on some [RDAP](https://github.com/icann/icann-rd
 
 ### ⚙️  Latest Work
 
-Right now, I'm all about speed — especially in low-level networking and virtual machines. How can we track packets, extract metadata, and make intelligent decisions *as fast as freaking possible*?
-
-Some of my current experiments:
+Here are some of my current experiments:
 
 
   - [RistrettoDB](https://github.com/MonkeyIsNull/RistrettoDB) - 4.6M rows/sec embedded database
