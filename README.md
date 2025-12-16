@@ -1,13 +1,11 @@
 ## Hey all
 
-Hey, I'm Adam. I work at [Cobenian](https://github.com/Cobenian) and somehow I've been in this field for 28 years.
+I'm Adam. I work at [Cobenian](https://github.com/Cobenian) and somehow I've been in this field for 28 years.
 
 
 <img src="nonlogo_compressed.jpg" alt="nonlogo" width="50%" />
 
-
-At the moment I've been working on some [RDAP](https://github.com/icann/icann-rdap/) [projects](https://github.com/icann/rdap-conformance-tool) and a little bit of DNSSEC.
-
+Below is a few projects I've been working on
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MonkeyIsNull&show_icons=true&theme=transparent" />
@@ -18,8 +16,6 @@ At the moment I've been working on some [RDAP](https://github.com/icann/icann-rd
 
 
 ### ⚙️  Latest Work
-
-Here are some of my current experiments:
 
 
   - [RistrettoDB](https://github.com/MonkeyIsNull/RistrettoDB) - 4.6M rows/sec embedded database
