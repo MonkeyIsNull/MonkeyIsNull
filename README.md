@@ -18,7 +18,7 @@ Below is a few projects I've been working on
 
 And a couple of Public Tools I've helped out on
 
-###   Commercial
+###  Other
   - [RDAPConformanceTool](https://github.com/icann/rdap-conformance-tool) - A tool to validate RDAP
   - [RDAPClient](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol
 
