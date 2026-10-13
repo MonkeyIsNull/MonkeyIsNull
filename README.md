@@ -7,10 +7,13 @@ I'm Adam. I work at [Cobenian](https://github.com/Cobenian) and somehow I've bee
 
 If you're looking at this you're probably here for the [ShaiHuludDetector](https://github.com/Cobenian/shai-hulud-detect)
 
-My latest pet project is [netdebug](https://github.com/MonkeyIsNull/netdebug) (yes, awful name - suggest something!) 
-It came out some serious frustrations with wireless networking in my house.
+<img align="right" width="200" src="nullicorn_laptop.png" alt="nullicorn" />
 
-Below is a few other projects I've been working on
+My latest pet project is [netdebug](https://github.com/MonkeyIsNull/netdebug) (yes, awful name - suggest something!)
+
+It came out of some serious frustrations with wireless networking in my house.
+
+Below are a few other projects I've been working on:
 
 ### ⚙️  Latest Work
 
