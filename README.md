@@ -1,11 +1,16 @@
 ## Hey all
 
-I'm Adam. I work at [Cobenian](https://github.com/Cobenian) and somehow I've been in this field for 28 years.
+I'm Adam. I work at [Cobenian](https://github.com/Cobenian) and somehow I've been in this field for almost 30 years.
 
 
 <img src="nonlogo_compressed.jpg" alt="nonlogo" width="50%" />
 
-Below is a few projects I've been working on
+If you're looking at this you're probably here for the [ShaiHuludDetector](https://github.com/Cobenian/shai-hulud-detect)
+
+My latest pet project is [netdebug](https://github.com/MonkeyIsNull/netdebug) (yes, awful name - suggest something!) 
+It came out some serious frustrations with wireless networking in my house.
+
+Below is a few other projects I've been working on
 
 ### ⚙️  Latest Work
 
