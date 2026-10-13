@@ -7,11 +7,11 @@ I'm Adam. I work at [Cobenian](https://github.com/Cobenian) and somehow I've bee
 
 If you're looking at this you're probably here for the [ShaiHuludDetector](https://github.com/Cobenian/shai-hulud-detect)
 
-<img align="right" width="200" src="nullicorn_laptop.png" alt="nullicorn" />
-
 My latest pet project is [netdebug](https://github.com/MonkeyIsNull/netdebug) (yes, awful name - suggest something!)
 
 It came out of some serious frustrations with wireless networking in my house.
+
+<img src="nullicorn_laptop.png" alt="nullicorn" width="50%" />
 
 Below are a few other projects I've been working on:
 
@@ -24,9 +24,8 @@ Below are a few other projects I've been working on:
   - [Cortado](https://github.com/MonkeyIsNull/cortado) - A caffeine infused version of Lisp written in Rust
   - [TinyTotVM](https://github.com/MonkeyIsNull/TinyTotVM) - Experimental Virtual Machine
 
-And a couple of Public Tools I've helped out on
 
-###  Other
+###  Other Public Tools 
   - [RDAPConformanceTool](https://github.com/icann/rdap-conformance-tool) - A tool to validate RDAP
   - [RDAPClient](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol
 
