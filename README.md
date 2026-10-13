@@ -11,7 +11,7 @@ My latest pet project is [netdebug](https://github.com/MonkeyIsNull/netdebug) (y
 
 It came out of some serious frustrations with wireless networking in my house.
 
-<img src="nullicorn_laptop.png" alt="nullicorn" width="50%" />
+<img src="nullicorn_laptop.png" alt="nullicorn" width="100" />
 
 Below are a few other projects I've been working on:
 
